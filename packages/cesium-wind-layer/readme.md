@@ -1,11 +1,9 @@
-# Cesium Wind Layer
+# Cesium Wind Layer - Package Fork
 
 [![npm version](https://img.shields.io/npm/v/cesium-wind-layer.svg)](https://www.npmjs.com/package/cesium-wind-layer)
 [![license](https://img.shields.io/npm/l/cesium-wind-layer.svg)](https://github.com/your-repo/cesium-wind-layer/blob/main/LICENSE)
 
 A Cesium plugin for GPU-accelerated visualization of wind field data with particle animation.
-
-[中文文档](/packages/cesium-wind-layer/readme.zh-CN.md) | [Live Demo](https://cesium-wind-layer.opendde.com/)
 
 | Wind Layer | Terrain Occlusion |
 |-----------------|------------------------|
